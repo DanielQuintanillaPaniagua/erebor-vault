@@ -80,8 +80,17 @@ In Tolkien's world, **Erebor** — the Lonely Mountain — was the most impenetr
 
 ## 📸 Preview
 
-> *Screenshots go here*
+<p align="center">
+  <img src="assets/banner.png" width="800"/>
+</p>
 
+<p align="center">
+  <img src="assets/list.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="assets/get.png" width="800"/>
+</p>
 ---
 
 ## 🚀 Installation
