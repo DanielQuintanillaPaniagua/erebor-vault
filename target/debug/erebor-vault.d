@@ -1,0 +1,1 @@
+/home/daniel/erebor-vault/target/debug/erebor-vault: /home/daniel/erebor-vault/src/banner.rs /home/daniel/erebor-vault/src/config.rs /home/daniel/erebor-vault/src/main.rs /home/daniel/erebor-vault/src/models.rs /home/daniel/erebor-vault/src/vault.rs
